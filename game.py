@@ -31,6 +31,6 @@ while True:
         or (user_choice == "paper" and computer_choice == "rock")
         or (user_choice == "scissors" and computer_choice == "paper")
     ):
-        print("You win!")
+        print("You win!yayyyy")
     else:
         print("Computer wins!")
